@@ -64,4 +64,4 @@ ________________________________________
 OS	Windows 10 / 11 (64-bit)
 RAM	vsaj 8 GB+, za velike datoteke 16 GB+
 Disk	~1 GB za aplikacijo + prostor za izhodne datoteke
-Python nameščen in dodan v path
+Python 3.14.3 nameščen in dodan v path
