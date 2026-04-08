@@ -30,7 +30,7 @@ Chechkich je namizna aplikacija za zaznavanje jamskih vhodov iz podatkov lasersk
 
 ## **Navodila za uporabo**
 ### 0. Zagon
-*Prva namestitev:* Prenesi vso vsebino repozitorija in jo odzipaj na željeno mesto. V naslovni vrstici v file explorerju izbriši pot do datoteke in napiši CMD in stisni enter, odpre se comand prompt v katerega napišeš: _python -m venv .venv_ Ko se ustvari virtualno okolje ga aktiviraš in vneseš _.venv\Scripts\activate_  in stisneš enter. Vse potrebne knjižnice namestiš tako da vneseš: _pip install -r requirements.txt_ in stisneš enter.  Nato napišeš še: _python chechkich.py_ stisneš enter. Zagon traja nekaj 10 s, nato se pojavi uporabniški vmesnik.
+*Prva namestitev:* Prenesi vso vsebino repozitorija in jo odzipaj na željeno mesto. V naslovni vrstici v file explorerju izbriši pot do datoteke in napiši CMD in stisni enter, odpre se comand prompt v katerega napišeš: _python -m venv .venv_ Ko se ustvari virtualno okolje ga aktiviraš in vneseš _.venv\Scripts\activate_  in stisneš enter. Vse potrebne knjižnice namestiš tako da vneseš: _pip install -r requirements.txt_ in stisneš enter.  Nato napišeš še: _python checkich.py_ stisneš enter. Zagon traja nekaj 10 s, nato se pojavi uporabniški vmesnik.
 
 *Kasnejši zagoni:* Pri kasnejših zagonih je potrebno samo aktivirati virtualno okolje in pognati skripto. V CMD vstaviš _.venv\Scripts\activate_ in nato z ukazom _python checkich.py_ poženeš aplikacijo
 ### 1. Nalaganje podatkov
